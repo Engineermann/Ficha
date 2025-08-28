@@ -1,0 +1,29 @@
+.abc{
+    display: grid;
+    grid-template-columns: 100px 100px 100px 100px 100px 100px 100px 100px 100px 100px;
+    grid-template-rows: 100px 100px 100px 100px 100px 100px 100px 100px 100px 100px 100px;
+    gap: 10px;
+}
+
+.def{
+    background-color: rgb(219, 219, 219);
+    border-image-width: 10px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+}
+
+.def img{
+    padding-left: 12px;
+    width: 75px;
+}
+
+.ghk{
+    display: flex;
+    justify-content: space-between;
+    gap:10px;
+}
+
+.lmn img{
+    background-color: rgb(219, 219, 219);
+    width: 75px;
+}
